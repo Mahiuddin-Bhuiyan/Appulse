@@ -125,3 +125,10 @@ indexexchange.com, 211613, RESELLER, 50b1c356f2c5c8fc
 richaudience.com, h44H1yPBlk, RESELLER
 appnexus.com, 8233, RESELLER
 pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
+vidazoo.com, 6864e2c5609707a223281c6c, reseller, b6ada874b4d7d0b2
+rubiconproject.com, 17130, reseller, 0bfd66d529a55807
+openx.com, 541017750, reseller, 6a698e2ec38604c6
+admanmedia.com, 928, reseller
+taboola.com, 1618213, direct, c228e6794e811952
+pubnative.net, 1008770, reseller, d641df8625486a7b
+rubiconproject.com, 17328, reseller, 0bfd66d529a55807
