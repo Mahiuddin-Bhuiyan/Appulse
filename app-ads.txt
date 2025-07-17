@@ -132,3 +132,8 @@ admanmedia.com, 928, reseller
 taboola.com, 1618213, direct, c228e6794e811952
 pubnative.net, 1008770, reseller, d641df8625486a7b
 rubiconproject.com, 17328, reseller, 0bfd66d529a55807
+rubiconproject.com, 17476, reseller, 0bfd66d529a55807
+media.net, 8cu47mdk1, reseller
+loopme.com, 11524, reseller, 6c8d5f95897a5a3b
+smaato.com, 1100004890, reseller, 07bcf65f187117b4
+appnexus.com, 1752, reseller, f5ab79cb980f11d1
