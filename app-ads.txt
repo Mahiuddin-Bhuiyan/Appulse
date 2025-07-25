@@ -137,3 +137,12 @@ media.net, 8cu47mdk1, reseller
 loopme.com, 11524, reseller, 6c8d5f95897a5a3b
 smaato.com, 1100004890, reseller, 07bcf65f187117b4
 appnexus.com, 1752, reseller, f5ab79cb980f11d1
+152media.info, 152m698, reseller
+admanmedia.com, 2050, reseller
+apester.com, 91071, reseller
+triplelift.com, 11457, reseller, 6c33edb13117fd86
+yieldlab.net, 11114007, reseller
+33across.com, 001pg00001cgsiwiab, reseller, bbea06d9c4d2853c
+appnexus.com, 10239, reseller, f5ab79cb980f11d1
+video.unrulymedia.com, 645663965, reseller
+rubiconproject.com, 16414, reseller, 0bfd66d529a55807
